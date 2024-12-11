@@ -1,0 +1,9 @@
+.image-container {
+    display: inline-block;
+    
+    box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.5), /* Inner shadow */
+                0 0 20px rgba(0, 0, 0, 0.5); /* Outer shadow */
+}
+.image-container img {
+    display: block;
+}

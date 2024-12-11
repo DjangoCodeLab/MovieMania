@@ -1,0 +1,13 @@
+
+.width{
+    width:18vmax;
+}
+.image-style{
+    height: 23rem;
+    width: 18rem;
+    border:3px solid black;
+}
+.image-style img{
+    height: 23rem;
+    width: 18rem;
+}
